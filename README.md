@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/lipid-nanoparticle-mrna-delivery-explainer/
 
+Repository: https://github.com/mizcausevic-dev/lipid-nanoparticle-mrna-delivery-explainer
+
 ## What this is
 
 An interactive anatomy plate for Lipid Nanoparticle mRNA Delivery. Play, scrub, or jump the five stages. The same frame always draws the same picture.
